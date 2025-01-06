@@ -10,14 +10,14 @@ parallel-jobs = 1
 build-mode = "both"
 excluded-patches = ""
 included-patches = ""
-version = "19.44.39"
+version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [YouTube-Extended]
 app-name = "YouTube"
-patches-source = "Neko059/Han-ReVanced-patches"
+patches-source = "Neko059/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
