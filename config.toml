@@ -35,7 +35,7 @@ uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 [Music-Extended]
 enabled = false
 app-name = "Music"
-patches-source = "inotia00/revanced-patches"
+patches-source = "Neko059/Han-ReVanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
